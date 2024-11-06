@@ -2,6 +2,7 @@
 
 This project is a Vue.js application for job postings and applying for jobs. It allows users to view job listings and submit applications dynamically.
 
+
 ## Home
 ![Home Screenshot](img/home.png) 
 
